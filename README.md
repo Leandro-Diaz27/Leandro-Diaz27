@@ -96,10 +96,8 @@
 ## Connect with Me:
   
   <p>
-<a href="https://www.linkedin.com/in/jaiswal4sudeep/"><img src="https://img.shields.io/badge/-jaiswal4sudeep-blue?logo=linkedin&style=flat-square"></a>
-<a href="https://instagram.com/ljdm-ljdm"><img src="https://img.shields.io/badge/-jaiswal4sudeep-pink?logo=instagram&style=flat-square"/></a>
-<a href="mailto:jaiswal4sudeep@gmail.com"><img src="https://img.shields.io/badge/-jaiswal4sudeep@gmail.com-black?logo=gmail&style=flat-square"/></a>
-<a href="https://twitter.com/jaiswal4sudeep"><img src="https://img.shields.io/badge/-jaiswal4sudeep-blue?logo=twitter&style=flat-square"/></a>
+<a href="https://instagram.com/ljdm_ljdm"><img src="https://img.shields.io/badge/-jaiswal4sudeep-pink?logo=instagram&style=flat-square"/></a>
+<a href="mailto:ljdmanriquez709@gmail.com"><img src="https://img.shields.io/badge/-jaiswal4sudeep@gmail.com-black?logo=gmail&style=flat-square"/></a>
 </p>
 
 
