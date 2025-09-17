@@ -12,6 +12,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=48&center=true&width=500&height=100&lines=Web+Developer;">
 </p>
 
+<p>My portfolio --> https://teclab.uct.cl/~leandro.diaz/trabajos/indexportfolio.html </p>
 
 <p align="center">
     
