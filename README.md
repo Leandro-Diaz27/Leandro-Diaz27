@@ -98,8 +98,8 @@
 ## Connect with Me:
   
   <p>
-<a href="https://instagram.com/ljdm_ljdm"><img src="https://img.shields.io/badge/-jaiswal4sudeep-pink?logo=instagram&style=flat-square"/></a>
-<a href="mailto:ljdmanriquez709@gmail.com"><img src="https://img.shields.io/badge/-jaiswal4sudeep@gmail.com-black?logo=gmail&style=flat-square"/></a>
+<a href="https://instagram.com/ljdm_ljdm"><img src="https://img.shields.io/badge/-ljdm-ljdm-pink?logo=instagram&style=flat-square"/></a>
+<a href="mailto:ljdmanriquez709@gmail.com"><img src="https://img.shields.io/badge/-ljdmanriquez2002@gmail.com-black?logo=gmail&style=flat-square"/></a>
 </p>
 
 
