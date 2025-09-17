@@ -12,7 +12,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=48&center=true&width=500&height=100&lines=Web+Developer;">
 </p>
 
-<p>My portfolio --> https://teclab.uct.cl/~leandro.diaz/trabajos/indexportfolio.html </p>
+
 
 <p align="center">
     
@@ -32,6 +32,7 @@
   <li> I like web design. </li>
   <li> I like to focus on learning a technology well instead of learning a little of everything at the same time. </li>
   <li> I have been in the field for 6 months. </li>
+  <li><p>My portfolio --> https://teclab.uct.cl/~leandro.diaz/trabajos/indexportfolio.html </p></li>
 
 <ul>
 
