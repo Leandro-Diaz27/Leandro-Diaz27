@@ -33,8 +33,9 @@
   <li> I like web design. </li>
   <li> I like to focus on learning a technology well instead of learning a little of everything at the same time. </li>
   <li> I have been in the field for 6 months. </li>
+  <h2>
   <li><p>My portfolio --> https://teclab.uct.cl/~leandro.diaz/trabajos/indexportfolio.html </p></li>
-
+  </h2>
 <ul>
 
 
